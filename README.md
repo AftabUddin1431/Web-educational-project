@@ -1,1 +1,1 @@
-# Web-educational-project
+# education_full
